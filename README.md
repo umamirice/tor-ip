@@ -1,2 +1,2 @@
 # tor-ip
-Just small script which I needed. Useful when cracking something
+Just a small script which I needed. Useful when cracking something
